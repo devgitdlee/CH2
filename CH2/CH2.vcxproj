@@ -23,6 +23,11 @@
     <ClCompile Include="2-2.c" />
     <ClCompile Include="2-3.c" />
     <ClCompile Include="2-4.c" />
+    <ClCompile Include="2-5.c" />
+    <ClCompile Include="2-6.c" />
+    <ClCompile Include="2-7.c" />
+    <ClCompile Include="연습문제2.c" />
+    <ClCompile Include="연습문제3.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
